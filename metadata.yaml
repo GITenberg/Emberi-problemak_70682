@@ -1,0 +1,28 @@
+_repo: Emberi-problemak_70682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tonelli, Sándor
+    alias: Tonelli, Sandor
+    birthdate: 1882
+    deathdate: 1950
+    gutenberg_agent_id: '54065'
+    url: http://www.gutenberg.org/2009/agents/54065
+description: ''
+gutenberg_issued: '2023-05-01'
+identifiers:
+  gutenberg: '70682'
+language: hu
+pgterms:marc905: 20230119121034tonelli
+pgterms:marc906: '1927'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the SZTE
+  Miscellanea
+publication_note: '  $aHungary :$bDélmagyarország, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Emberi problémák
+url: http://www.gutenberg.org/ebooks/70682
