@@ -1,5 +1,8 @@
 _repo: Emberi-problemak_70682
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tonelli, Sándor
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54065'
     url: http://www.gutenberg.org/2009/agents/54065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70682#Emberi-problemak
 gutenberg_issued: '2023-05-01'
 identifiers:
   gutenberg: '70682'
